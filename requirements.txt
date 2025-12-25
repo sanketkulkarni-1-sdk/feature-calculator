@@ -1,0 +1,9 @@
+numpy
+pandas
+pytest
+black
+flake8
+mypy
+sphinx
+python-dotenv
+pyyaml
